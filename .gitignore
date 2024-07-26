@@ -1,0 +1,37 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database files
+*.db
+*.sqlite3
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# macOS-specific files
+.DS_Store
+
+# Swap files
+*.swp
+*.swo
+
+# Python compiled files
+*.py[cod]
+*.so
+
